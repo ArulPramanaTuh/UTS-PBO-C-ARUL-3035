@@ -1,0 +1,4 @@
+D:\pbo\C_UTSPBO_Arul Pramana Bahari_3035\C_UTSPBO_Arul Pramana Bahari_3035\obj\Debug\net9.0\C_UTSPBO_Arul Pramana Bahari_3035.GeneratedMSBuildEditorConfig.editorconfig
+D:\pbo\C_UTSPBO_Arul Pramana Bahari_3035\C_UTSPBO_Arul Pramana Bahari_3035\obj\Debug\net9.0\C_UTSPBO_Arul Pramana Bahari_3035.AssemblyInfoInputs.cache
+D:\pbo\C_UTSPBO_Arul Pramana Bahari_3035\C_UTSPBO_Arul Pramana Bahari_3035\obj\Debug\net9.0\C_UTSPBO_Arul Pramana Bahari_3035.AssemblyInfo.cs
+D:\pbo\C_UTSPBO_Arul Pramana Bahari_3035\C_UTSPBO_Arul Pramana Bahari_3035\obj\Debug\net9.0\C_UTSPBO_Arul Pramana Bahari_3035.csproj.CoreCompileInputs.cache
